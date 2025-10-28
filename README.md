@@ -4,7 +4,7 @@ A command-line movie recommendation engine built in Python. This project takes a
 
 The core algorithms for text vectorization (**TF-IDF**) and similarity calculation (**Cosine Similarity**) were implemented entirely from scratch, without relying on common machine learning libraries like Scikit-learn.
 
-![Screenshot of the recommender in action]("prof.png")
+![Screenshot of the recommender in action](prof.png)
 
 
 ---
